@@ -14,11 +14,11 @@ Passionate developer specializing in full-stack web applications, Business Intel
 ---
 
 ### 🛠️ Tech Stack & Tools
-Languages:        TypeScript, JavaScript, Java (21+), Python, SQL
-Frontend & UI:    Next.js 15 (App Router), React, Tailwind CSS, Lucide React, Java Swing
-Backend & Data:   Prisma ORM, PostgreSQL, Supabase (Auth SSR), SQLite 3, Server Actions
-Vision & Parsers: OpenCV, Tesseract / EasyOCR, Custom JSON Parsing Pipelines
-DevOps & Tools:   Git, GitHub, Vercel, DNS Configuration, Notion
+```Languages:        TypeScript, JavaScript, Java (21+), Python, SQL```
+```Frontend & UI:    Next.js 15 (App Router), React, Tailwind CSS, Lucide React, Java Swing```
+```Backend & Data:   Prisma ORM, PostgreSQL, Supabase (Auth SSR), SQLite 3, Server Actions```
+```Vision & Parsers: OpenCV, Tesseract / EasyOCR, Custom JSON Parsing Pipelines```
+```DevOps & Tools:   Git, GitHub, Vercel, DNS Configuration, Notion```
 
 ---
 
