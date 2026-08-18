@@ -7,7 +7,7 @@ Passionate developer specializing in full-stack web applications, Business Intel
 
 ### 🚀 Featured Projects
 
-* **[VANTAGE](https://github.com/Davoarb/vantage-saas)** — Modern Esports SaaS platform for scrim tracking and team analytics. Built with **Next.js 15 (App Router)**, **TypeScript**, **Prisma ORM**, **Supabase (PostgreSQL + SSR Auth)**, and Server Actions.
+* **[VANTAGE](https://github.com/Davoarb/VANTAGE.git)** — Modern Esports SaaS platform for scrim tracking and team analytics. Built with **Next.js 15 (App Router)**, **TypeScript**, **Prisma ORM**, **Supabase (PostgreSQL + SSR Auth)**, and Server Actions.
 * **[Valorant Stats Analyzer](https://github.com/Davoarb/valorant-stats-analyzer)** — 3-tier desktop BI platform built with **Java 21+**, Swing, SQLite 3, and an asynchronous Python computer vision engine (**OpenCV**, **Tesseract OCR**).
 * **[Donina Web](https://github.com/Davoarb/Donina_web)** — Production commercial website with dynamic appointment routing, built with **React**, **Vite**, and custom DNS management on Vercel.
 
